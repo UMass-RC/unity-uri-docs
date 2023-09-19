@@ -1,9 +1,9 @@
 :root {
-  --md-typeset-a-color: #881c1c;
-  --md-primary-fg-color: #881c1c;
-  --md-primary-fg-color--light: #881c1c;
-  --md-primary-fg-color--dark: #881c1c;
-  --md-accent-fg-color: #a92323;
+  --md-typeset-a-color: #002147;
+  --md-primary-fg-color: #002147;
+  --md-primary-fg-color: #002147;
+  --md-primary-fg-color: #002147;
+  --md-accent-fg-color: #002b56;
 }
 
 .md-header__topic {
